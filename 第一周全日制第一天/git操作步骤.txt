@@ -18,6 +18,7 @@ git add index.txt 添加到本地仓库的暂存区
 git commit -m"注释" 提交到仓库
 
 
+
 一.本地仓库和远程仓库关联起来
 
 git remote add origin https://github.com/amgYen/testFactory.git
